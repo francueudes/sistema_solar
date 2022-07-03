@@ -1,0 +1,36 @@
+﻿  main.cpp
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(26,42): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(26,35): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(37,34): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(37,28): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(45,43): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(47,41): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(48,41): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(49,43): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(50,43): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(51,43): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(52,44): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(206,30): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(219,37): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(219,31): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(243,42): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(243,36): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(267,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(267,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(291,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(291,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(315,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(315,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(326,29): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(339,41): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(339,35): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(350,29): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(363,41): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(363,35): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(376,29): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(389,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(389,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(400,29): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(413,40): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Desktop\Solar-system-master\main.cpp(413,34): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+  SolarSystem.vcxproj -> C:\Users\francueudes\Desktop\Solar-system-master\Debug\SolarSystem.exe

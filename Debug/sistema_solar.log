@@ -1,0 +1,33 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: O diretório intermediário (Debug\) contém arquivos compartilhados de outro projeto (SolarSystem.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  main.cpp
+C:\Users\francueudes\Music\sistema_solar\main.cpp(139,43): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\francueudes\Music\sistema_solar\main.cpp(143,41): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\francueudes\Music\sistema_solar\main.cpp(145,41): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\francueudes\Music\sistema_solar\main.cpp(147,43): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\francueudes\Music\sistema_solar\main.cpp(149,43): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\francueudes\Music\sistema_solar\main.cpp(151,43): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\francueudes\Music\sistema_solar\main.cpp(153,44): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\francueudes\Music\sistema_solar\main.cpp(180,30): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\francueudes\Music\sistema_solar\main.cpp(194,37): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Music\sistema_solar\main.cpp(194,31): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Music\sistema_solar\main.cpp(221,42): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Music\sistema_solar\main.cpp(221,36): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Music\sistema_solar\main.cpp(248,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Music\sistema_solar\main.cpp(248,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Music\sistema_solar\main.cpp(275,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Music\sistema_solar\main.cpp(275,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Music\sistema_solar\main.cpp(302,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Music\sistema_solar\main.cpp(302,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Music\sistema_solar\main.cpp(315,29): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\francueudes\Music\sistema_solar\main.cpp(329,41): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Music\sistema_solar\main.cpp(329,35): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Music\sistema_solar\main.cpp(342,29): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\francueudes\Music\sistema_solar\main.cpp(356,41): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Music\sistema_solar\main.cpp(356,35): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Music\sistema_solar\main.cpp(369,29): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\francueudes\Music\sistema_solar\main.cpp(383,39): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Music\sistema_solar\main.cpp(383,33): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Music\sistema_solar\main.cpp(396,29): warning C4305: 'argumento': truncamento de 'double' para 'GLfloat'
+C:\Users\francueudes\Music\sistema_solar\main.cpp(410,40): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+C:\Users\francueudes\Music\sistema_solar\main.cpp(410,34): warning C4244: 'argumento': conversão de 'double' para 'GLint', possível perda de dados
+  sistema_solar.vcxproj -> C:\Users\francueudes\Music\sistema_solar\Debug\sistema_solar.exe
